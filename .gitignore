@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Python-кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Большие PDF (если не хотите их заливать)
+*.pdf
